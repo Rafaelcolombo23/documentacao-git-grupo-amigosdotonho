@@ -10,11 +10,7 @@ Este repositório tem como objetivo apresentar um guia introdutório e prático 
 
 - O que é Git e para que serve
 - Principais comandos do Git
-- Diferença entre Git e GitHub
-- Como criar um repositório local e remoto
-- Como clonar, fazer commit e push
 - Como criar e resolver *pull requests*
-- Fluxo de trabalho colaborativo com branches
 
 ## 👨‍💻 Autores
 
